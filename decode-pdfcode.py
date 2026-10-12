@@ -1,3 +1,6 @@
+import utils.http_session
+import utils.transport
+import utils.session
 from pdf417decoder import PDF417Decoder
 from PIL import Image
 import re
